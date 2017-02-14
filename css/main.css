@@ -1,0 +1,10 @@
+body {
+  background-color:black;
+  color:white;
+}
+
+.category {
+  color:red;
+  font-size: 1.6em;
+  margin-bottom: 30px;
+}
